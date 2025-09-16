@@ -19,3 +19,5 @@ Berikut ini adalah Koleksi yang dimiliki:
 ___
 
 *Powered by Github Pages*
+[halaman1](webti/halaman1.html)
+
