@@ -16,7 +16,8 @@ Berikut ini adalah Koleksi yang dimiliki:
 9. [Gerpolek](ebook/Gerpolek.pdf) - Tan Malaka (1948)
 10. [Zaman Peralihan](ebook/Zaman Peralihan.pdf) - Soe Hok Gie (1966)
 11. [Beyond the bookshelf virtual reality](ebook/Beyond the bookshelf virtual reality.pdf) - Tengku Siti Meriam (2025)
-______________________
+
+---
 
 [halaman1](webti/halaman1.html)
 
